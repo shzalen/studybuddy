@@ -1,3 +1,9 @@
-*
-!/dist/
-!/dist/**
+node_modules/
+src/
+public/
+*.json
+*.ts
+*.config.*
+init.sql
+.vscode/
+dist/
