@@ -1,0 +1,13 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e7]: 📚
+    - heading "暑假计划" [level=2] [ref=e8]
+    - paragraph [ref=e9]: 登录后开始你的暑假打卡
+  - generic [ref=e10]:
+    - generic [ref=e11]: 手机号
+    - textbox "请输入手机号" [ref=e12]
+  - generic [ref=e13]:
+    - generic [ref=e14]: 密码
+    - textbox "请输入密码" [ref=e15]
+  - button "登 录" [ref=e16]
+  - paragraph [ref=e17]: 登录后7天内无需重新登录

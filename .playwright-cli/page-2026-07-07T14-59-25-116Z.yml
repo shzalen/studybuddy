@@ -1,0 +1,46 @@
+- generic [ref=e3]:
+  - banner [ref=e18]:
+    - heading "📚 暑假计划" [level=1] [ref=e19]
+    - button "退出" [ref=e20]:
+      - img [ref=e21]
+      - text: 退出
+  - generic [ref=e24]:
+    - button [ref=e25]:
+      - img [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29] [cursor=pointer]:
+        - generic [ref=e30]: 周日
+        - generic [ref=e31]: "5"
+        - generic [ref=e32]: 7月
+      - generic [ref=e33] [cursor=pointer]:
+        - generic [ref=e34]: 周一
+        - generic [ref=e35]: "6"
+        - generic [ref=e36]: 7月
+      - generic [ref=e37] [cursor=pointer]:
+        - generic [ref=e38]: 今天
+        - generic [ref=e39]: "7"
+        - generic [ref=e40]: 7月
+      - generic [ref=e41] [cursor=pointer]:
+        - generic [ref=e42]: 周三
+        - generic [ref=e43]: "8"
+        - generic [ref=e44]: 7月
+      - generic [ref=e45] [cursor=pointer]:
+        - generic [ref=e46]: 周四
+        - generic [ref=e47]: "9"
+        - generic [ref=e48]: 7月
+      - generic [ref=e49] [cursor=pointer]:
+        - generic [ref=e50]: 周五
+        - generic [ref=e51]: "10"
+        - generic [ref=e52]: 7月
+      - generic [ref=e53] [cursor=pointer]:
+        - generic [ref=e54]: 周六
+        - generic [ref=e55]: "11"
+        - generic [ref=e56]: 7月
+    - button [ref=e57]:
+      - img [ref=e58]
+  - paragraph [ref=e61]: 7月7日 二
+  - generic [ref=e63]:
+    - generic [ref=e64]: 🎉
+    - paragraph [ref=e65]: 今天没有安排事项
+    - paragraph [ref=e66]: 点击底部按钮添加吧
+  - button "＋" [ref=e67]
